@@ -1,0 +1,24 @@
+1551756589449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gl/7cc7y3xd3tq77zptwrlhmv0m0000gn/T/rust_mozprofile.WGZdh6ZOHdix"
+1551756592003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551756592003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551756597892	Marionette	INFO	Listening on port 62401
+1551756597983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551756605249	Marionette	INFO	Stopped listening on port 62401
+1551756758985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gl/7cc7y3xd3tq77zptwrlhmv0m0000gn/T/rust_mozprofile.mcCew0dyxfnK"
+1551756760883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551756760884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551756765716	Marionette	INFO	Listening on port 63179
+1551756765762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551756768924	Marionette	INFO	Stopped listening on port 63179
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1551757000658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gl/7cc7y3xd3tq77zptwrlhmv0m0000gn/T/rust_mozprofile.tyJy6ANIetmi"
+1551757002697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551757002698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551757007436	Marionette	INFO	Listening on port 64228
+1551757007504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551757010383	Marionette	INFO	Stopped listening on port 64228
