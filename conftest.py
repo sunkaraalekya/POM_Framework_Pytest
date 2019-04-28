@@ -13,7 +13,7 @@ def test_setup(request):
 
     browser=request.config.getoption("--browser")
     if browser=='chrome':
-        driver=webdriver.Chrome(options=chrome_options)
+        driver=webdriver.Chrome(executable_path="/Users/alekya/pyworkspace/POM_Framework_Pytest/drivers/chromedriver")
     elif browser=='ff':
         driver=webdriver.Firefox()
 
